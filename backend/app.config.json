@@ -1,0 +1,14 @@
+{
+    "instagram":{
+        "packageName":"com.instagram.android",
+        "activityName":".activity.MainTabActivity"
+    },
+    "chrome":{
+        "packageName":"com.android.chrome",
+        "activityName":"com.google.android.apps.chrome.Main"
+    },
+    "settings":{
+        "packageName":"com.android.settings",
+        "activityName":"com.android.settings.Settings"
+    }
+}
